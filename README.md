@@ -4,6 +4,6 @@
 <h1>Python project</h1>
 </head>
 <body>
-<p>https://www.online-python.com/</p>
+<p>Adventure game written in python.</p>
 </body>
 </html>
