@@ -5,5 +5,6 @@
 </head>
 <body>
 <p>Adventure game written in python.</p>
+  <img src="/images/imgAdventureGame.jpeg" alt="imgAdventureGame" title="imgAdventureGame">
 </body>
 </html>
